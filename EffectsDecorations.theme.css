@@ -11,19 +11,6 @@
 @import url('https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/src/main.css');
 @import url('https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/src/banner.css');
 
-:root {
-	/**
-	 * Change the URL below to the link of an image/gif you want to be everyones profile effect
-	 * Defult is set to Ki Detonate
-	 */
-	--profile-effect-image: url("");
-	/**
-	 * Change the URL below to the link of an image/gif you want to be everyones avatar decoration
-	 * Defult is set to Balance
-	 */
-	--avatar-decoration-image: url("");
-}
-
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
 [aria-label*="josephisticated"], [id="popout_28"] {
 	/**
